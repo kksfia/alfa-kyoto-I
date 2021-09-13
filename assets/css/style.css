@@ -509,4 +509,11 @@ button {
 .hidden {
   display: none;
 }
+
+.quiz3{
+  display: inline-block;
+}
+li:not(:first-child)::before {
+  content: "｜";
+}
 /*# sourceMappingURL=style.css.map */
