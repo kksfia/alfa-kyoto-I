@@ -251,19 +251,19 @@ button {
 }
 
 .text-greenlight{
-  color:#19ff19
+  color:#19ff19;
 }
 
 .text-blue{
-  color:#3300ff
+  color:#3300ff;
 }
 
 .text-white{
-  color:#ffffff
+  color:#ffffff;
 }
 
 .text-bluetext{
-  color:0000ff
+  color:0000ff;
 }
 
 /*********************
@@ -346,11 +346,11 @@ button {
 }
 
 .font-serif{
-  font-family: "游明朝体" 
+  font-family: "游明朝体" ;
 }
 
 .font-sanserif{
-  font-family: "游ゴシック体" 
+  font-family: "游ゴシック体" ;
 }
 /*************************
 * Button
