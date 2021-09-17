@@ -250,6 +250,22 @@ button {
   background-color: #e6e6e6;
 }
 
+.text-greenlight{
+  color:#19ff19
+}
+
+.text-blue{
+  color:#3300ff
+}
+
+.text-white{
+  color:#ffffff
+}
+
+.text-bluetext{
+  color:0000ff
+}
+
 /*********************
 * title
 **********************/
@@ -329,6 +345,13 @@ button {
   font-weight: normal;
 }
 
+.font-serif{
+  font-family: "游明朝体" 
+}
+
+.font-sanserif{
+  font-family: "游ゴシック体" 
+}
 /*************************
 * Button
 *************************/
